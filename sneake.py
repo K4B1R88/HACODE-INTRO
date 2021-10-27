@@ -85,7 +85,7 @@ HAVE A GOOD DAY BUDDIE :)
 						elif c == 6:
 							webbrowser.open("https://youtube.com/channel/UCi00gqBm4n98-dg7ND7gsrg")
 						elif c == 7:
-							webbrowser.open("https://chat.whatsapp.com/JnrKsQW55tFAvq3iTgO2Ut")
+							
 						elif c == 8:
 							start.first("kriss")
 						elif c == 9:
